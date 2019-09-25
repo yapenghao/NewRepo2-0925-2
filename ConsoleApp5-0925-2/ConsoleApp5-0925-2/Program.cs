@@ -10,7 +10,7 @@ namespace ConsoleApp5_0925_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("master");
+            Console.WriteLine("DEV");
         }
     }
 }
